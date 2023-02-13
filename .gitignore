@@ -1,0 +1,5 @@
+.idea/
+/vendor/
+/var/
+error_log
+/test/
