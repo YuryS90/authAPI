@@ -3,3 +3,4 @@
 /var/
 error_log
 /test/
+.env
